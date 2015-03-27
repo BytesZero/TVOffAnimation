@@ -1,7 +1,6 @@
 # TVOffAnimation
 仿电视关闭的一个动画效果
 #仿电视关机效果的动画
----
 - **效果图**
 
 ![这里写图片描述](https://github.com/yy1300326388/TVOffAnimation/blob/master/image/tvoffanimation.gif)
